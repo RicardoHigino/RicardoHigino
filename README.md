@@ -3,8 +3,6 @@
 
 - I’m currently learning **JavaScript, NodeJS, Python and others.**
 
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardohigino&show_icons=true&theme=highcontrast&locale=en" alt="ricardohigino" /></p>
