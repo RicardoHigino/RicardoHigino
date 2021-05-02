@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Ricardo Higino</h1>
-<h3 align="center">A backend developer from Brazil.</h3>
+<h3 align="center">A backend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, Python and others.**
 
