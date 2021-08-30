@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Ricardo Higino</h1>
 <h3 align="center">A technology student from brazil. 🛰</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **JavaScript, NodeJS and React Native**
 
 
 <h3 align="left">Languages and Tools:</h3>
