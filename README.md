@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Ricardo Higino</h1>
 <h3 align="center">Hello World 🛰</h3>
 
-- 🚀 I’m currently learning **JavaScript, NodeJs and backend universe.**.
+- 🚀 I’m currently working with **JavaScript, NodeJs and backend universe.**.
 
 
 <h3 align="left">Languages and Tools:</h3>
