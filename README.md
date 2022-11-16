@@ -30,7 +30,6 @@ class SoftwareEngineer {
 <h2>GitHub Stats 🚀</h2>
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RicardoHigino&theme=radical)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoHigino&show_icons=true&theme=radical)
   
   
 <h2>GitHub Trophy 🏆</h2>
