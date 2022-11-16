@@ -30,4 +30,4 @@ class SoftwareEngineer {
   
 <h2>GitHub Trophy 🏆</h2>
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=ricardoHigino&row=1&theme=radical)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ricardoHigino&row=1&theme=radical&title=Commits,Repositories,Followers)
