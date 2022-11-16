@@ -26,11 +26,6 @@ class SoftwareEngineer {
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 
-          
-<h2>GitHub Stats 🚀</h2>
-
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RicardoHigino&theme=radical)
-  
   
 <h2>GitHub Trophy 🏆</h2>
 
