@@ -5,7 +5,8 @@
 ```js
 class SoftwareEngineer {
   name = 'Ricardo Higino'
-  work = 'Accon Tech & Molde Development';
+  work = 'Accon Tech';
+  ceo  = 'Molde Development';
   language = ['JavaScript', 'TypeScript', 'Python', 'SQL'];
   framework = ['NodeJS', 'NestJS', 'AdonisJS', 'Selenium'];
   dataBase = ['PostgreSQL', 'MongoDB', 'Redis'];
