@@ -7,7 +7,7 @@ class SoftwareEngineer {
   name = 'Ricardo Higino';
   specializations = ['Backend', 'DevOps'];
   languages = ['JavaScript', 'TypeScript', 'Python', 'SQL'];
-  frameworks = ['Node.js', 'NestJS', 'AdonisJS', 'Selenium'];
+  frameworks = ['Node.js', 'NestJS', 'Selenium'];
   databases = ['PostgreSQL', 'MongoDB', 'Redis'];
   devOpsTools = ['Docker', 'AWS', 'GCP', 'CI/CD'];
 }
