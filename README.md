@@ -4,12 +4,12 @@
 
 ```js
 class SoftwareEngineer {
-  name = 'Ricardo Higino'
-  work = 'Accon Tech';
-  ceo = 'Molde Development';
-  language = ['JavaScript', 'TypeScript', 'Python', 'SQL'];
-  framework = ['NodeJS', 'NestJS', 'AdonisJS', 'Selenium'];
-  dataBase = ['PostgreSQL', 'MongoDB', 'Redis'];
+  name = 'Ricardo Higino';
+  specializations = ['Backend', 'DevOps'];
+  languages = ['JavaScript', 'TypeScript', 'Python', 'SQL'];
+  frameworks = ['Node.js', 'NestJS', 'AdonisJS', 'Selenium'];
+  databases = ['PostgreSQL', 'MongoDB', 'Redis'];
+  devOpsTools = ['Docker', 'AWS', 'GCP', 'CI/CD'];
 }
 ```
 
