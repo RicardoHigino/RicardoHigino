@@ -9,7 +9,8 @@ class SoftwareEngineer {
   languages = ['JavaScript', 'TypeScript', 'Python', 'SQL'];
   frameworks = ['Node.js', 'NestJS', 'Selenium'];
   databases = ['PostgreSQL', 'MongoDB', 'Redis'];
-  devOpsTools = ['Docker', 'AWS', 'GCP', 'CI/CD'];
+  cloudTechnologies = ['AWS', 'GCP', 'DigitalOcean', 'Serverless'];
+  devOpsTools = ['Docker', 'CI/CD', 'Git];
 }
 ```
 
