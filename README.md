@@ -1,37 +1,28 @@
-<h2>Hello World ☕</h2>
+# Hi, I'm Ricardo Higino 👋
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+Senior Backend Engineer with 6 years of experience building products in **healthtech** and **fintech**. I work mainly with **Node.js, TypeScript and NestJS**, design data models on **PostgreSQL and MongoDB**, and run services on **Google Cloud**.
 
-```js
-class SoftwareEngineer {
-  name = 'Ricardo Higino';
-  specializations = ['Backend', 'DevOps'];
-  languages = ['JavaScript', 'TypeScript', 'Python', 'SQL'];
-  frameworks = ['Node.js', 'NestJS', 'Selenium'];
-  databases = ['PostgreSQL', 'MongoDB', 'Redis'];
-  cloudTechnologies = ['AWS', 'GCP', 'DigitalOcean', 'Serverless'];
-  devOpsTools = ['Docker', 'CI/CD', 'Git'];
-}
-```
+📍 Brazil (UTC-3) · Open to remote roles · [LinkedIn](https://www.linkedin.com/in/ricardo-higino-231203209/)
 
-<h2>Technologies 💫</h2>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></code>
+## Tech Stack
 
-  
-<h2>GitHub Trophy 🏆</h2>
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Backend:** Node.js, NestJS, Express, Fastify, GraphQL, REST
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps:** Google Cloud (Cloud Run, Cloud Build), AWS, Docker, CI/CD, Git
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=ricardoHigino&row=1&theme=radical&title=Commits,Repositories,Followers)
+## Highlights
+
+- **Fintech:** built a product that brought in **1,000+ customers** and grew **MRR by 40%**.
+- **Healthtech:** delivered automation that replaced the manual work of **10 people** and cut **patient queues by 90%**.
+- **Cloud migration:** led the migration of production infrastructure from **DigitalOcean to Google Cloud Platform**.
+
+## Featured Projects
+
+- [**financy**](https://github.com/RicardoHigino/financy): full-stack personal finance app with a GraphQL API (Apollo Server, TypeGraphQL, Prisma) and a React 19 frontend.
+- [**brevly-back**](https://github.com/RicardoHigino/brevly-back): URL shortener API with Fastify, Drizzle ORM and PostgreSQL. It counts redirects and streams CSV exports to Cloudflare R2.
+- [**nestjs-monorepo**](https://github.com/RicardoHigino/nestjs-monorepo): NestJS monorepo whose apps share one Docker image, deployed to Cloud Run as separate services by Cloud Build.
+
+## Contact
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/ricardo-higino-231203209/).
