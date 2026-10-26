@@ -1,13 +1,19 @@
-# Hi, I'm Ricardo 👋
+# Hi, I'm Ricardo Higino 👋
 
-Senior Backend Engineer with 6 years building products in **healthtech** and **fintech**.
-Based in Brazil (UTC-3), open to remote.
+Senior Backend Engineer with 6 years of experience building products in healthtech and fintech.
 
-**Stack:** Node.js · TypeScript · NestJS · PostgreSQL · MongoDB · Redis · Google Cloud · Docker
+📍 Brazil (UTC-3) · Open to remote roles · LinkedIn
 
-### Highlights
-- Built a fintech product that brought in **1,000+ customers** and grew **MRR by 40%**.
-- Automated healthtech workflows, replacing the manual work of **10 people** and cutting **patient queues by 90%**.
-- Led a full infrastructure migration from **DigitalOcean to Google Cloud**.
+## Tech Stack
+- Languages: TypeScript, JavaScript, Python, SQL
+- Backend: Node.js, NestJS, Express, Fastify, GraphQL, REST
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud & DevOps: Google Cloud (Cloud Run, Cloud Build), AWS, Docker, CI/CD, Git
 
-[LinkedIn](https://www.linkedin.com/in/ricardo-higino-231203209/)
+## Highlights
+- Fintech: built a product that brought in 1,000+ customers and grew MRR by 40%.
+- Healthtech: delivered automation that replaced the manual work of 10 people and cut patient queues by 90%.
+- Cloud migration: led the migration of production infrastructure from DigitalOcean to Google Cloud Platform.
+
+## Contact
+Reach me on LinkedIn.
