@@ -2,7 +2,7 @@
 
 Senior Backend Engineer with 6 years of experience building products in healthtech and fintech.
 
-📍 Brazil (UTC-3) · Open to remote roles · [LinkedIn](https://www.linkedin.com/in/ricardo-higino-231203209/)
+📍 Brazil (UTC-3) · Open to remote roles · [LinkedIn](https://www.linkedin.com/in/ricardo-higino/)
 
 ## Tech Stack
 - Languages: TypeScript, JavaScript, Python, SQL
@@ -16,4 +16,4 @@ Senior Backend Engineer with 6 years of experience building products in healthte
 - Cloud migration: led the migration of production infrastructure from DigitalOcean to Google Cloud Platform.
 
 ## Contact
-Reach me on [LinkedIn](https://www.linkedin.com/in/ricardo-higino-231203209/).
+Reach me on [LinkedIn](https://www.linkedin.com/in/ricardo-higino/).
